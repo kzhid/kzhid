@@ -11,8 +11,8 @@
   <a href="https://www.instagram.com/kzhd01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="spud6552" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge](https://cdn.discordapp.com/attachments/1228444501396426852/1228781966757986345/image.png?ex=662d4b62&is=661ad662&hm=dee60f94021283fd1042fa7a84cd1371e7b040aaa2c9c279397e07a36765ebb1&)" height="25" alt="discord logo"  />
+  <a href="https://cdn.discordapp.com/attachments/1228444501396426852/1228781966757986345/image.png?ex=662d4b62&is=661ad662&hm=dee60f94021283fd1042fa7a84cd1371e7b040aaa2c9c279397e07a36765ebb1&" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
