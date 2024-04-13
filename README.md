@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on projects to learn c++
+- 🌱 I’m currently learning c++
+- 📫 How to reach me: My [LinkedIn](https://www.linkedin.com/in/kzhd01/)
+- 😄 Pronouns: He/Him
 <!--
 **kzhid/kzhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
