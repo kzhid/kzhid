@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Kasim<br><br>- 🔭 I’m currently a full time college student in year 12.<br>- 📚 i'm currently learning c++<br>- ⚡ In my free time I play videogames & go to the gym</p>
+<p align="left">- 🔭 I’m currently a full time college student in year 12.<br>- 📚 i'm currently learning c++<br>- ⚡ In my free time I play videogames & go to the gym</p>
 
 ###
 
