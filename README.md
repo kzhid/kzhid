@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning c++
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kzhd01/)
 - 😄 Pronouns: He/Him
+- ⚡ Info: 18y, Year 12 college student
 <!--
 **kzhid/kzhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
