@@ -57,7 +57,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.discordapp.com/attachments/1228444501396426852/1233854375437402173/IntelliJ_IDEA_Icon.svg.png?ex=662e9bef&is=662d4a6f&hm=71966a05852562aab070cfd1ed6e39b5780cca21e4df6fe97b9fbc100b670685&" height="40" alt="intellj logo"  />
+  <img src="https://github.com/kzhid/kzhid/blob/main/IntelliJ_IDEA_Icon.svg.png" height="40" alt="intellj logo"  />
 </div>
 
 ###
