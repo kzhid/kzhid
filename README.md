@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="(https://github.com/kzhid/kzhid/blob/main/0_EXJ61_Tcp0urcb82.jpg)"  />
+  <img height="150" src="https://github.com/kzhid/kzhid/blob/main/0_EXJ61_Tcp0urcb82.jpg"  />
 </div>
 
 ###
