@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently a full time college student in year 12<br>- 📚 i'm currently learning Java<br>- ⚡ In my free time I play videogames & go to the gym</p>
+<p align="left">- 🔭 I’m currently a full time college student in year 13<br>- 📚 i'm currently learning Python<br>- ⚡ In my free time I play videogames & go to the gym</p>
 
 ###
 
